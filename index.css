@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://fondosmil.com/fondo/27098.jpg");
+    margin-left: 30px;
+    margin-right: 30px ;
+}
+h1{
+    color: black;
+    font-size: 32;
+    text-align: center;
+    background:linear-gradient(30deg, crimson,sienna, royalblue, indianred, purple);
+    
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    
+}
+
+b{
+    text-align: center;
+}
